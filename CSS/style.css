@@ -1,0 +1,19 @@
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+h1, h2, h4{
+  text-shadow: 2px 2px purple;
+}
+
+body{
+  background-color: #a5a58d;
+}
+.foodlistcontainer{
+  /* width: 120px; */
+    display: inline;
+    float: left;
+    padding-bottom: 20px;
+    /* padding-right: 15px; */
+}
